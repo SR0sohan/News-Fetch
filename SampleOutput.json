@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
@@ -27,19 +27,6 @@
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220806091833-06-biden-covid-fraud-bills-080522-super-tease.jpg",
             "publishedAt": "2022-08-07T13:14:00Z",
             "content": "(CNN)President Joe Biden was officially cleared to emerge from isolation Sunday after a second negative Covid-19 test, his physician announced. \r\n\"This morning, the president's SARS-CoV-2 antigen tes… [+2739 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "‘Come on, Bernie’: Democrats clash on Senate floor over Sanders proposal - The Hill",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2ZpbmFuY2UvMzU5MTQ4Ny1jb21lLW9uLWJlcm5pZS1kZW1vY3JhdHMtY2xhc2gtb24tc2VuYXRlLWZsb29yLW92ZXItc2FuZGVycy1wcm9wb3NhbC_SAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-08-07T12:49:00Z",
-            "content": null
         },
         {
             "source": {
@@ -235,19 +222,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/79AeSjqGeYVuhvQC6MjoVP-1200-80.jpg",
             "publishedAt": "2022-08-07T06:01:31Z",
             "content": "Dell XPS 13 Plus vs MacBook Air M2: Which 2022 laptop is right for you? It can be a tricky decision since both are sleek, powerful 13-inch ultraportables with great screens, good speakers and similar… [+20442 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "China's Trade Surplus at Record as Exports Beat Expectations - Bloomberg",
-            "description": null,
-            "url": "https://www.bloomberg.com/tosv.html?url=L3Rvc3YyLmh0bWw/dXJsPUwyNWxkM012WVhKMGFXTnNaWE12TWpBeU1pMHdPQzB3Tnk5amFHbHVZUzF6TFdWNGNHOXlkQzFuY205M2RHZ3RZbVZoZEhNdFpYaHdaV04wWVhScGIyNXpMVzltWm1WeWFXNW5MWE4xY0hCdmNuUSUzRCZ2aWQ9JnV1aWQ9NDI5ZGUwNWEtMTYyZS0xMWVkLTllOWQtNjg0YzRiNTE2ZTYy&uuid=c973f14c-162e-11ed-a938-6b6465655a57&vid=",
-            "urlToImage": null,
-            "publishedAt": "2022-08-07T06:01:00Z",
-            "content": "To continue, please click the box below to let us know you're not a robot."
         },
         {
             "source": {
