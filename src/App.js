@@ -6,11 +6,12 @@ import NavBar from './components/NavBar';
 import News from './components/News';
 
 export default class App extends Component {
+  apiKey = process.env.REACT_APP_NEWS_API
   render() {
     return (
       <div>
         <NavBar/>
-        <News pageSize={9} country="us" />
+        <News pageSize={9} apiKey={this.apiKey} country="us" />
       </div>
     )
   }
